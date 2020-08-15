@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ExpensetrackerApplication<expensetracker>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "in.bushansirgur.expensetracker.ExpensetrackerApplication",
+            "projectName": "expensetracker",
+            "args": ""
+        }
+    ]
+}
